@@ -588,6 +588,10 @@ video {
   top: 14rem;
 }
 
+.bottom-3 {
+  bottom: 0.75rem;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -746,6 +750,11 @@ video {
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity, 1));
+}
+
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity, 1));
 }
 
 .px-7 {
